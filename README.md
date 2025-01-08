@@ -1,6 +1,11 @@
 # Google Drive Examples
 Package for examples on operations that can be performed with google drive
 
+[Documentation](./doc.md)
+
+---
+
+## Help on Python Packaging 
 
 [link](https://www.mssqltips.com/sqlservertip/6802/create-wheel-file-python-package-distribute-custom-code/)
 
