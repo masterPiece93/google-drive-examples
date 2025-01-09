@@ -21,12 +21,12 @@ python setup.py bdist_wheel
 check-wheel-contents <path-to-dist-folder>
 ```
 
-## everything about python packaging in short :
+##### everything about python packaging in short :
 
 [link](https://xebia.com/blog/a-practical-guide-to-using-setup-py/)
 
 
-## How to include the static/additional/non-python-file pkg data :
+##### How to include the static/additional/non-python-file pkg data :
 
 [link-1](https://sixty-north.com/blog/including-package-data-in-python-packages.html#:~:text=Broadly%2C%20package%20data%20is%20any,included%20in%20a%20Python%20package.)
 
