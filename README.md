@@ -1,9 +1,10 @@
 # Google Drive Examples
 Package for examples on operations that can be performed with google drive
 
-[Documentation](./doc.md)
+### [Documentation](./doc.md)
 
-[How to Install](https://github.com/masterPiece93/google-drive-examples/wiki/Package-Installation-From-Git)
+### [How to Install](https://github.com/masterPiece93/google-drive-examples/wiki/Package-Installation-From-Git)
+
 ---
 
 ## Help on Python Packaging 
