@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/python.svg" width="50" height="50">
+
 
 # Google Drive Examples
 Package for examples on operations that can be performed with google drive
