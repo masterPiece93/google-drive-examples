@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/arrow-left-long.svg" width="50" height="50">]([./README.md](https://github.com/masterPiece93/google-drive-examples))
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/arrow-left-long.svg" width="50" height="50">](https://github.com/masterPiece93/google-drive-examples)
 
 Google Drive - Examples
 =======================
